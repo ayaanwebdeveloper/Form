@@ -1,0 +1,105 @@
+body {
+    background-image: url(img/back.jpg);
+    
+}
+.out {
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    width: 350px;
+    backdrop-filter: blur(25px);
+    border: 2px solid #c6c3c3;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 0 50px 50px 50px;
+    color: #fff;    
+    height: 450px;
+}
+.name {
+    width: 120px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    height: 50px;
+    margin-left: 110px;
+}
+.ln {
+    text-align: center;
+    margin-top: 1px;
+}
+.us {
+    position: absolute;
+font-size: 30px;
+    top: 100px;
+     
+}
+#ut {
+    width: 100%;
+    border-radius: 20px ;
+    height: 30px;
+    padding-left: 20px;
+    border: 3px solid gray;
+    position: relative;
+    backdrop-filter: blur(25px);
+    border: 2px solid #c6c3c3;  
+    background-color: transparent;
+}
+#ui {
+position: absolute;
+top: 42px;
+left: 300px;
+color: white ;
+}
+.ps {
+    position: absolute;
+font-size: 30px;
+    top: 200px;
+}
+
+
+#pt {
+    width: 100%;
+    border-radius: 20px ;
+    height: 30px;
+    padding-left: 20px;
+    border: 3px solid gray;
+    position: relative;
+    backdrop-filter: blur(25px);
+    border: 2px solid #c6c3c3;  
+    background-color: transparent;
+}
+#pi {
+    position: absolute;
+    top: 42px;
+    left: 300px;
+    color: white ;
+    }
+    #me {
+        margin-top: 240px;
+    }
+    #f {
+        margin-left: 130px;
+    }
+    .p {
+        color: white;
+        text-decoration: none;
+    }
+    .logb {
+        width: 340px;
+        margin-top: 30px;
+        margin-left: 5px;
+        border-radius: 20px;
+        height: 40px;
+        font-size: 26px;
+        outline: none;
+        border: #F0F0F0 2px solid;
+     
+    }
+    .logb:hover {
+        background-color: #c6c3c3;
+        cursor: pointer;
+    }
+    .al {
+        margin-left: 80px;
+        cursor: pointer;
+    }
